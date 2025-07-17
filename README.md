@@ -14,8 +14,7 @@ This is a Next.js project created using v0dev. It includes a modern React-based 
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/my-next-app.git
-   cd my-next-app
+   git clone https://github.com/X-RugvedCodes-X/Secure-Stream.git
    ```
 2. Install dependencies:
    ```
