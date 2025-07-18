@@ -3,7 +3,7 @@
 # My Next.js Project
 
 ## Overview
-This is a Next.js project created using v0dev. It includes a modern React-based frontend with Tailwind CSS for styling and is set up for easy development and deployment.
+Secure Stream is an advanced solution for secure video streaming, designed to ensure a piracy-free and smooth workflow. Built with Next.js 15, TypeScript, and Tailwind CSS, it delivers a modern, high-performance frontend optimized for development, security, and seamless deployment.
 
 ## Prerequisites
 - Node.js (v18 or later)
